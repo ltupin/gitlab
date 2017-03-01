@@ -7,6 +7,7 @@ Regarding those links, it looks like a trap (I confirm !):
 [http://stackoverflow.com/questions/40254733/updating-bitnami-gitlab-documentation-lacking-clarity]
 
 With those files you will be able to find a way to properly:
+
 1. Upgrade Gitlab
 2. Upgrade Go
 3. Upgrade Ruby
